@@ -1,3 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://photos.snepi.space/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'photos.snepi.space'
+theme = 'gallery'
+copyright = 'Copyright 2024 Brett Raye. All media licensed CC BY-SA-NC 4.0'
