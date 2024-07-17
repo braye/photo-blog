@@ -13,7 +13,8 @@ This is the first film album I've posted on this site. These were taken using a 
 
 One shot that I wasn't really able to make happen was a shot of people in front of the market sign taking photos. There were a *ton* of people doing the "pike place selfie" and I really wanted to capture that aspect of the place, because at the end of the day I think that despite how nice of a district it actually is, Pike Place is ultimately a tourist spot. It didn't materialize though - the 50mm was too short and I couldn't use a wide enough aperture to get the separation I wanted between the people taking photos and the sign.
 
-Oh well. Next time.
+Another one that didn't materialize was one of the workers at the fish market standing around looking vaguely annoyed, surrounded by people ostensibly waiting for them to throw the fish around, but not getting a single order. I couldn't make it work though, between the crowd and the fact that shortly after I realized what was going on, he walked away.
 
+Oh well. Next time.
 
 P.S. The EXIF data saying that these were taken on a Panasonic G9 are because I used [this awesome 3D print](https://www.printables.com/model/244900-modular-print-in-place-35mm-film-scanner/files) to digitize these photos after getting the negatives back.
