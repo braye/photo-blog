@@ -7,7 +7,7 @@ featured: true
 
 I took a personal day off work last friday, and went down to Pike Place in the afternoon. Cruise/tourist season is in full swing, and I wanted to capture how active Pike Place can get, even during weekdays.
 
-This is the first film album I've posted on this site. These were taken using a Nikon N8008S (F80S) and an AF NIKKOR 50mm f/1.8D on Fuji 400. That film used to be Superia X-Tra, but they either reformulated or rebranded it because that's what Amazon shipped me instead of Superia. It was cheap so I wasn't complaining.
+This is the first film album I've posted on this site. These were taken using a Nikon N8008S (F-801) and an AF NIKKOR 50mm f/1.8D on Fuji 400. That film used to be Superia X-Tra, but they either reformulated or rebranded it because that's what Amazon shipped me instead of Superia. It was cheap so I wasn't complaining.
 
 400 in real bright daylight was kinda challenging without an ND filter, but I'm glad I went with it because the indoor scenes needed it. Exposure was still all over the place though and I don't really have a good grasp on it yet. I mostly shot in aperture priority but I think that I should suck it up, shoot in full manual, and learn to use the light meter. That said most of the underexposure was easy enough to clean up in RawTherapee and I'm really happy with how the shots turned out.
 
