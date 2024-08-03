@@ -1,5 +1,6 @@
 ---
 Title: E-PL10 Test Shots
+Date: 2024-06-13
 ---
 
 Taken with the Lumix G 25mm f/1.7.

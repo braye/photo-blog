@@ -3,6 +3,9 @@ Title: Edmonds on HP5
 Author: Brett Raye
 Sort: -date
 featured: false
+Date: 2024-07-18
+description: I tried developing film with caffenol and it went...okay!
+featured_image: _1224532-3.jpg
 ---
 
 After Seattle Pride on the 30th of June, I sent off the two rolls of Fuji 400 I finished to be processed, put some Ilford HP5 in the Nikon, and went to Edmonds on a sunny evening.

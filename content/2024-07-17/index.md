@@ -3,6 +3,9 @@ Title: Pike Place
 Author: Brett Raye
 Sort: -date
 featured: true
+Date: 2024-07-17
+featured_image: _1224501.jpg
+description: Some film photography at Seattle' famous public market.
 ---
 
 I took a personal day off work last friday, and went down to Pike Place in the afternoon. Cruise/tourist season is in full swing, and I wanted to capture how active Pike Place can get, even during weekdays.
