@@ -2,7 +2,7 @@
 Title: Pike Place
 Author: Brett Raye
 Sort: -date
-featured: true
+featured: false
 Date: 2024-07-17
 featured_image: _1224501.jpg
 description: Some film photography at Seattle' famous public market.
